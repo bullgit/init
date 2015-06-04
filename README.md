@@ -1,6 +1,6 @@
 # init
 The best reset file since reset.css
---- 
+
 
 ## How to 
 Add the `init.css` file into your page or stylesheets like the following : 
